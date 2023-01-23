@@ -165,13 +165,13 @@ QualitySettings:
     - Nintendo Switch
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
-    Android: 1
+    Android: 0
     Nintendo 3DS: 0
     Nintendo Switch: 1
     PS4: 2
     PSP2: 0
     Server: 0
-    Standalone: 2
+    Standalone: 0
     Tizen: 0
     WebGL: 0
     WiiU: 0
